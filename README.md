@@ -3,4 +3,4 @@ CD4 is a simple console based skin swapper &amp; cheat menu for Fortnite
 
 ## Showcase
 
-![image](https://github.com/ASMRoyal/CD4/assets/89786570/353e826f-fad3-47a3-945b-f2f090bcb1b6)
+![image](https://github.com/ASMRoyal/CD4/assets/89786570/4ea2db98-0709-4ec3-a5ad-fa89e6a751a8)
